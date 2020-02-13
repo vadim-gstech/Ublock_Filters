@@ -1,0 +1,15 @@
+[UBLOCK ORIGIN]
+! Author: Green Side Technology
+! Homepage: https://github.com/vadim-gstech/Ublock_Filters
+! Title: Money in the wallet.
+! Last Update: 13 Feb 2020
+! Version: 0.1
+! Description: Money in the wallet. The filter contains online casinos and other gambling for money, "magic wallets", as well as other sites related to direct expenses for you. If you want to help develop a filter for your region, please contact me using the contact e-mail: vadim.gstech@gmail.com
+
+||777azino3779azino.icu^
+||azino-777.ru^
+||azinoazino307.icu^
+||drift.biz^
+||elvengold.com^
+||igrun.com^
+||igruns.blogspot.com^
